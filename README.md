@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project presents an **interactive Pizza Sales Dashboard** built in
-**Power BI**.\
+**Power BI**.
 The goal is to analyze sales performance, customer behavior, and product
 trends to uncover insights that can help improve business decisions.
 
@@ -14,15 +14,15 @@ trends to uncover insights that can help improve business decisions.
 The dashboard provides a comprehensive set of **Key Performance
 Indicators (KPIs):**
 
--   ✅ **Total Revenue**\
--   ✅ **Total Orders**\
--   ✅ **Total Pizzas Sold**\
--   ✅ **Average Order Value (AOV)**\
--   ✅ **Top-Selling Pizza Categories & Sizes**\
--   ✅ **Daily / Monthly Sales Trends**\
--   ✅ **Best Performing Days & Hours**\
--   ✅ **Revenue Contribution by Category**\
--   ✅ **Customer Purchase Behavior**\
+-   ✅ **Total Revenue**
+-   ✅ **Total Orders**
+-   ✅ **Total Pizzas Sold**
+-   ✅ **Average Order Value (AOV)**
+-   ✅ **Top-Selling Pizza Categories & Sizes**
+-   ✅ **Daily / Monthly Sales Trends**
+-   ✅ **Best Performing Days & Hours**
+-   ✅ **Revenue Contribution by Category**
+-   ✅ **Customer Purchase Behavior**
 -   ✅ **Delivery vs. Dine-in Performance**
 
 ------------------------------------------------------------------------
@@ -31,12 +31,12 @@ Indicators (KPIs):**
 
 The dataset contains pizza sales transactions with details such as:
 
--   `order_id` → Unique order identifier\
--   `order_date` → Date of order\
--   `pizza_id` → Pizza identifier\
--   `pizza_category` → Category (Classic, Supreme, Veggie, etc.)\
--   `pizza_size` → Size of pizza\
--   `quantity` → Number of pizzas ordered\
+-   `order_id` → Unique order identifier
+-   `order_date` → Date of order
+-   `pizza_id` → Pizza identifier
+-   `pizza_category` → Category (Classic, Supreme, Veggie, etc.)
+-   `pizza_size` → Size of pizza
+-   `quantity` → Number of pizzas ordered
 -   `price` → Price per pizza
 
 ------------------------------------------------------------------------
@@ -44,8 +44,8 @@ The dataset contains pizza sales transactions with details such as:
 ## 🛠 Tools & Technologies
 
 -   **Power BI Desktop** -- Data visualization and dashboard creation\
--   **DAX** -- For calculated measures and KPIs\
--   **Excel / CSV** -- Source dataset\
+-   **DAX** -- For calculated measures and KPIs
+-   **Excel / CSV** -- Source dataset
 -   **SQL SERVER** -- TO query the required data
 
 ------------------------------------------------------------------------
@@ -113,9 +113,9 @@ ORDER BY SUM(Quantity) ASC;
 
 ## 🚀 Insights Gained
 
--   The **Classic Pizza Category** contributes the highest revenue.\
--   **Large-sized pizzas** are the most popular among customers.\
--   Peak sales occur during **weekends and evenings**.\
+-   The **Classic Pizza Category** contributes the highest revenue.
+-   **Large-sized pizzas** are the most popular among customers.
+-   Peak sales occur during **weekends and evenings**.
 -   The business heavily relies on **few best-selling pizzas**,
     suggesting a need to diversify promotions.
 
@@ -123,9 +123,9 @@ ORDER BY SUM(Quantity) ASC;
 
 ## 📌 How to Use
 
-1.  Clone or download the repository.\
-2.  Open the `.pbix` file in **Power BI Desktop**.\
-3.  Refresh the data (if source file is available).\
+1.  Clone or download the repository.
+2.  Open the `.pbix` file in **Power BI Desktop**.
+3.  Refresh the data (if source file is available).
 4.  Explore the dashboard interactively.
 
 ------------------------------------------------------------------------
