@@ -1,5 +1,5 @@
 # 🍕 Pizza Sales Power BI Dashboard
-
+![image alt](https://github.com/joseph0327/PowerBI-Pizza-Sales/blob/ec1712100fb1af58437d3a9f5949e7b3c6478cfc/Pizza%20Sales%20Power_pt1.png)
 ## 📌 Project Overview
 
 This project presents an **interactive Pizza Sales Dashboard** built in
