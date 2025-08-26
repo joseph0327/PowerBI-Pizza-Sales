@@ -52,8 +52,8 @@ The dataset contains pizza sales transactions with details such as:
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots)*
-
+![image alt](https://github.com/joseph0327/PowerBI-Pizza-Sales/blob/ec1712100fb1af58437d3a9f5949e7b3c6478cfc/Pizza%20Sales%20Power_pt1.png)
+![image alt](https://github.com/joseph0327/PowerBI-Pizza-Sales/blob/3b788766334cebe34627a464c8a58f253b359e05/Pizza%20Sales%20Power_pt2.png)
 ------------------------------------------------------------------------
 
 ## 📈 Sample DAX Measures
