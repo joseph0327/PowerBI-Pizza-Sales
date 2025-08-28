@@ -23,7 +23,7 @@ Indicators (KPIs):**
 -   ✅ **Best Performing Days & Hours**
 -   ✅ **Revenue Contribution by Category**
 -   ✅ **Customer Purchase Behavior**
--   ✅ **Delivery vs. Dine-in Performance**
+
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ The dataset contains pizza sales transactions with details such as:
 -   **Power BI Desktop** -- Data visualization and dashboard creation\
 -   **DAX** -- For calculated measures and KPIs
 -   **Excel / CSV** -- Source dataset
--   **SQL SERVER** -- TO query the required data
+-   **SQL SERVER** -- To query the required data for verification/data integrity
 
 ------------------------------------------------------------------------
 
@@ -115,9 +115,10 @@ ORDER BY SUM(Quantity) ASC;
 
 -   The **Classic Pizza Category** contributes the highest revenue.
 -   **Large-sized pizzas** are the most popular among customers.
--   Peak sales occur during **weekends and evenings**.
+-   Peak sales occur during **Friday and Satuday evenings**.
 -   The business heavily relies on **few best-selling pizzas**,
     suggesting a need to diversify promotions.
+-   The Month that has the highest order is **July**,
 
 ------------------------------------------------------------------------
 
